@@ -1,10 +1,18 @@
-# space-hazard-project
-Trabalho A3 da unidade curricular de computação gráfica e realidade virtual
+# Space Hazard Project
+- College group project on Python game development
+- Aims to simulate a spaceship game
+- UI is in brazilian portuguese
 
-# Tecnologias utilizadas
+## Previews
+![preview1](https://github.com/brenobc61/space-hazard-project/blob/main/assets/preview_1.png)
+
+![preview2](https://github.com/brenobc61/space-hazard-project/blob/main/assets/preview_2.png)
+
+## Technologies
 - Python
 - Pygame
 
-# Como utilizar
-- Instale o Python na sua máquina
-- Abra o terminal na pasta do projeto e digite "python main.py"
+## How to run
+- Install Python
+- Open cmd inside the project folder
+- Type "python main.py" 
